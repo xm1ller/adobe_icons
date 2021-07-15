@@ -1,3 +1,3 @@
 # Adobe Alt. Icons
 
-![](preview-1.png)
+![](preview-new.png)
